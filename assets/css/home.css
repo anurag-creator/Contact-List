@@ -23,6 +23,9 @@ body{
     color: white;
     display: flex;
 }
+.contact-list-container ul li:hover{
+    background-color: gray;
+}
 .contact .details{
     display: flex;
     flex-direction: row;
@@ -40,7 +43,9 @@ body{
     color: yellow;
     background-color: red;
 }
-
+.delete-button a:hover{
+    background-color:seagreen;
+}
 .input-box{
     margin-left: 30.5%;
 }
