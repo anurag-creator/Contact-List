@@ -40,7 +40,7 @@ body{
     margin-top: 5px;
 }
 .contact .delete-button a{
-    color: yellow;
+    color:white;
     background-color: red;
 }
 .delete-button a:hover{
