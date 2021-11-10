@@ -43,7 +43,7 @@ body{
     color:white;
     background-color: red;
 }
-.delete-button a:hover{
+.delete-button a:hover{ 
     background-color:seagreen;
 }
 .input-box{
